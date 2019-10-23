@@ -1,0 +1,68 @@
+{
+  "id": "******************",
+  "acceptMappedClaims": null,
+  "accessTokenAcceptedVersion": 2,
+  "addIns": [],
+  "allowPublicClient": true,
+  "appId": "******************",
+  "appRoles": [],
+  "oauth2AllowUrlPathMatching": false,
+  "createdDateTime": "2019-10-22T15:09:07Z",
+  "groupMembershipClaims": null,
+  "identifierUris": [],
+  "informationalUrls": {
+    "termsOfService": null,
+    "support": null,
+    "privacy": null,
+    "marketing": null
+  },
+  "keyCredentials": [],
+  "knownClientApplications": [],
+  "logoUrl": null,
+  "logoutUrl": null,
+  "name": "Library-UI",
+  "oauth2AllowIdTokenImplicitFlow": true,
+  "oauth2AllowImplicitFlow": true,
+  "oauth2Permissions": [],
+  "oauth2RequirePostResponse": false,
+  "optionalClaims": null,
+  "orgRestrictions": [],
+  "parentalControlSettings": {
+    "countriesBlockedForMinors": [],
+    "legalAgeGroupRule": "Allow"
+  },
+  "passwordCredentials": [],
+  "preAuthorizedApplications": [],
+  "publisherDomain": "******************",
+  "replyUrlsWithType": [
+    {
+      "url": "https://localhost:44331/",
+      "type": "Web"
+    }
+  ],
+  "requiredResourceAccess": [
+    {
+      "resourceAppId": "******************",
+      "resourceAccess": [
+        {
+          "id": "******************",
+          "type": "Scope"
+        }
+      ]
+    },
+    {
+      "resourceAppId": "00000003-0000-0000-c000-000000000000",
+      "resourceAccess": [
+        {
+          "id": "******************",
+          "type": "Scope"
+        }
+      ]
+    }
+  ],
+  "samlMetadataUrl": null,
+  "signInUrl": null,
+  "signInAudience": "AzureADandPersonalMicrosoftAccount",
+  "tags": [],
+  "tokenEncryptionKeyId": null
+}

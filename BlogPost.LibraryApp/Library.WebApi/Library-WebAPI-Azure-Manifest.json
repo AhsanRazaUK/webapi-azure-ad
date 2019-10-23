@@ -1,0 +1,83 @@
+{
+  "id": "****************************",
+  "acceptMappedClaims": null,
+  "accessTokenAcceptedVersion": 2,
+  "addIns": [],
+  "allowPublicClient": false,
+  "appId": "****************************",
+  "appRoles": [],
+  "oauth2AllowUrlPathMatching": false,
+  "createdDateTime": "2019-10-22T15:12:43Z",
+  "groupMembershipClaims": null,
+  "identifierUris": [
+    "api://****************************"
+  ],
+  "informationalUrls": {
+    "termsOfService": null,
+    "support": null,
+    "privacy": null,
+    "marketing": null
+  },
+  "keyCredentials": [],
+  "knownClientApplications": [
+    "****************************"
+  ],
+  "logoUrl": null,
+  "logoutUrl": null,
+  "name": "Library-WebApi",
+  "oauth2AllowIdTokenImplicitFlow": true,
+  "oauth2AllowImplicitFlow": true,
+  "oauth2Permissions": [
+    {
+      "adminConsentDescription": "Allow users to access",
+      "adminConsentDisplayName": "Access As User",
+      "id": "****************************",
+      "isEnabled": true,
+      "lang": null,
+      "origin": "Application",
+      "type": "User",
+      "userConsentDescription": "Allow you to access",
+      "userConsentDisplayName": "Access As User",
+      "value": "access_as_user"
+    }
+  ],
+  "oauth2RequirePostResponse": false,
+  "optionalClaims": null,
+  "orgRestrictions": [],
+  "parentalControlSettings": {
+    "countriesBlockedForMinors": [],
+    "legalAgeGroupRule": "Allow"
+  },
+  "passwordCredentials": [],
+  "preAuthorizedApplications": [
+    {
+      "appId": "****************************",
+      "permissionIds": [
+        "****************************"
+      ]
+    }
+  ],
+  "publisherDomain": "****************************",
+  "replyUrlsWithType": [
+    {
+      "url": "https://localhost:44320/",
+      "type": "Web"
+    }
+  ],
+  "requiredResourceAccess": [
+    {
+      "resourceAppId": "00000003-0000-0000-c000-000000000000",
+      "resourceAccess": [
+        {
+          "id": "****************************",
+          "type": "Scope"
+        }
+      ]
+    }
+  ],
+  "samlMetadataUrl": null,
+  "signInUrl": null,
+  "signInAudience": "AzureADandPersonalMicrosoftAccount",
+  "tags": [],
+  "tokenEncryptionKeyId": null
+}
