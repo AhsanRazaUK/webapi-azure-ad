@@ -1,0 +1,16 @@
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\bin\Debug\netcoreapp2.2\Library.WebApi.deps.json
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\bin\Debug\netcoreapp2.2\Library.WebApi.runtimeconfig.json
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\bin\Debug\netcoreapp2.2\Library.WebApi.runtimeconfig.dev.json
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\bin\Debug\netcoreapp2.2\Library.WebApi.dll
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\bin\Debug\netcoreapp2.2\Library.WebApi.pdb
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\obj\Debug\netcoreapp2.2\Library.WebApi.csprojAssemblyReference.cache
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\obj\Debug\netcoreapp2.2\Library.WebApi.RazorAssemblyInfo.cache
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\obj\Debug\netcoreapp2.2\Library.WebApi.RazorAssemblyInfo.cs
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\obj\Debug\netcoreapp2.2\Library.WebApi.AssemblyInfoInputs.cache
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\obj\Debug\netcoreapp2.2\Library.WebApi.AssemblyInfo.cs
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\obj\Debug\netcoreapp2.2\Library.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\obj\Debug\netcoreapp2.2\Library.WebApi.dll
+C:\Users\AhsanRaza\source\repos\webapi-azure-ad\BlogPost.LibraryApp\Library.WebApi\obj\Debug\netcoreapp2.2\Library.WebApi.pdb
