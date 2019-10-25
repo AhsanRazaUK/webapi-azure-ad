@@ -8,7 +8,7 @@ namespace Library.WebApi.Controllers
     [ApiController]
     public class BaseApiController : ControllerBase
     {
-        protected string GetTokenInfo(string type)
+        protected string GetUserInfo(string type)
         {
             return this.User.Claims.First(i => i.Type == type).Value;
         }

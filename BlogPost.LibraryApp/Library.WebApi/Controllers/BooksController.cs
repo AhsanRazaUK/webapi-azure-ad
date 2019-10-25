@@ -28,8 +28,8 @@ namespace Library.WebApi.Controllers
                 //test data
                 var bookResource = new BookResource()
                 {
-                    UserFullName = GetTokenInfo("name"),
-                    UserName = GetTokenInfo("preferred_username"),
+                    UserFullName = GetUserInfo("name"),
+                    UserName = GetUserInfo("preferred_username"),
                     Books = new List<Book>()
                 {
                     new Book()
@@ -44,7 +44,7 @@ namespace Library.WebApi.Controllers
                         BookId=2,
                         BookName="The Silent Patient",
                         AuthorName="Alex Michaelides",
-                        Category="Thriller "
+                        Category="Thriller"
                     },
                      new Book()
                     {
