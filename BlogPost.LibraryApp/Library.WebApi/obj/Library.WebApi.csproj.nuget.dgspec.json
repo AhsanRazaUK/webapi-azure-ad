@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AhsanRaza\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\Library.WebApi.csproj": {}
+    "C:\\Users\\ahsan\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\Library.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AhsanRaza\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\Library.WebApi.csproj": {
+    "C:\\Users\\ahsan\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\Library.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AhsanRaza\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\Library.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\ahsan\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\Library.WebApi.csproj",
         "projectName": "Library.WebApi",
-        "projectPath": "C:\\Users\\AhsanRaza\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\Library.WebApi.csproj",
-        "packagesPath": "C:\\Users\\AhsanRaza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AhsanRaza\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\obj\\",
+        "projectPath": "C:\\Users\\ahsan\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\Library.WebApi.csproj",
+        "packagesPath": "C:\\Users\\ahsan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahsan\\source\\repos\\webapi-azure-ad\\BlogPost.LibraryApp\\Library.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\AhsanRaza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
